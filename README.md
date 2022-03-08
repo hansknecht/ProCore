@@ -15,4 +15,6 @@ Coordinate lessons learned across organizations to develope a set of guides. The
 	- https://www.markdownguide.org/
 	- Allows conversion to other formats if it is decided to publish
 
+Hans taught me something.
+
 	Obviously not something Samuel did
