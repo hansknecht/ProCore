@@ -1,0 +1,3 @@
+# Git Tips
+
+## Starting Git
