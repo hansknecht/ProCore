@@ -1,5 +1,6 @@
 # What is required to deliver a product successfully?
 
+*Getting the right work done at the right time*
 ## This does not include:
 - A specific toolset
 - A specific methodology
