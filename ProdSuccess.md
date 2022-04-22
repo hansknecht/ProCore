@@ -4,7 +4,7 @@
 - A specific toolset
 - A specific methodology
 - A specific set of deliverables
-- A specific governanace approach
+- A specific governance approach
 - A specific set or combination of stakeholders
 
 ## Assumptions to avoid: 
@@ -30,15 +30,15 @@
 	- Identifying the appropriateness of teh skill level of the resources
 	- Acquiring the right number of appropriately trained and skilled resources
 
-## Signes you are not getting the right work dones at the right time
+## Signs you are not getting the right work done at the right time
 - Reacting rather than Planning
-- Stakeholders are unable to state their delivery expecation 
+- Stakeholders are unable to state their delivery expectation 
 - People are working overtime
 - Missing commitments
 - Not making time dependent commitments
 - Absence of a verifiable delivery plan
-- Unable to demonstrat a functional product
+- Unable to demonstrate  a functional product
 - Lack of a post delivery support plan
-- Taking action to manage perceptions outside of defining, delivering and demonstrationg completion of the product plan
-- Accepting work without verifying accoutability on all necessary tasks in the plan
+- Taking action to manage perceptions outside of defining, delivering and demonstrating completion of the product plan
+- Accepting work without verifying accountability on all necessary tasks in the plan
 
