@@ -25,6 +25,7 @@
 	- Providing a sufficient accounting for and defense of the work being accomplished
 	- Sufficiently justifying the value the team brings to the table
 - Tackling uncomfortable and difficult tasks
+- Tackling turd tasks
 - Not avoiding tasks because they solving complex, ambigious, or difficult problems
 - Securing the right number of appropriately trained and skilled resources
 	- Identifying the right number of resources
